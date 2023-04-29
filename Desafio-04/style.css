@@ -1,0 +1,29 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Moda th {
+    background-color: #BB86FC;
+    color: white;
+    
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+.Moda tr {
+    background-color: #424250;
+    color: white;
+
+}
+
+.Casa th {
+    background-color: #00C4B4;
+    color: white;
+}
+
+.Casa tr {
+    background-color: #424250;
+    color: white;
+}
